@@ -1,0 +1,1 @@
+Esse é meu primeiro repositório oficial, bem-vindo! Esse repositório tem a função de ser um armazém pra o código do meu projeto mais recente, fazer um blog de cabo a rabo, sugestões @joaovitorlumiere no insta :)
